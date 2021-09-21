@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Greedy Mouse: Autumn Harvest
 
-Author: (TODO: your name)
+Author: Liang Yen Chou
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: It's autumn, time for harvest! Collect as many meature carrot as you can!
 
 Screen Shot:
 
@@ -10,9 +10,9 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Use mouse motion to rotate camera; Use WASD to move camera ; Escape ungrabs mouse; Use arrows to control water opossum to eat the carrot!
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: This game is based on game2 base code, and reference previous project: hungry man https://github.com/CandyDong/15-466-f20-base2 ; The models and scene credit to Yixin He's amazing works: garden.blend.
 
 This game was built with [NEST](NEST.md).
 
